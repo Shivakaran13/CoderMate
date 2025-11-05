@@ -128,35 +128,3 @@ You can view the live preview of the project [here](https://code-sync-live.verce
    http://localhost:5173/
    ```
 
-## 🔮 Features for Next Release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.
-
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 🌟 Appreciation for Resources
-
-Special thanks to:
-
-- EMKC for providing the Piston API:
-
-  - [Piston Repository](https://github.com/engineer-man/piston)
-  - [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
-
-- Tldraw contributors:
-  - [Tldraw Repository](https://github.com/tldraw/tldraw)
-  - [Tldraw Documentation](https://tldraw.dev/)
-
-- Pollinations AI:
-  - [Pollinations Repository](https://github.com/pollinations/pollinations)
-  - [Pollinations Docs](https://pollinations.ai/)
